@@ -42,7 +42,7 @@ class AbcInterface(ABC):
         pass
 
     @abstractmethod
-    def add_contacts_or_phone(self):
+    def add_contact_or_phone(self):
         pass
 
     @abstractmethod
